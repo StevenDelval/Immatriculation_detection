@@ -7,4 +7,5 @@ pandas==2.2.2
 pytesseract==0.3.10
 Pillow==10.3.0
 bounding-box==0.1.3
-roboflow==1.1.28
+# roboflow==1.1.28
+easyocr==1.7.1
